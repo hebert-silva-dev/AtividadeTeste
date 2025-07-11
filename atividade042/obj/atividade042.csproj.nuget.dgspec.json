@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Linguagem C#\\Projetos\\atividade042\\atividade042\\atividade042.csproj": {}
+    "C:\\Users\\User\\Desktop\\Pasta para teste\\AtividadeTeste\\atividade042\\atividade042.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Linguagem C#\\Projetos\\atividade042\\atividade042\\atividade042.csproj": {
+    "C:\\Users\\User\\Desktop\\Pasta para teste\\AtividadeTeste\\atividade042\\atividade042.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Linguagem C#\\Projetos\\atividade042\\atividade042\\atividade042.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Pasta para teste\\AtividadeTeste\\atividade042\\atividade042.csproj",
         "projectName": "atividade042",
-        "projectPath": "C:\\Users\\User\\Desktop\\Linguagem C#\\Projetos\\atividade042\\atividade042\\atividade042.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Pasta para teste\\AtividadeTeste\\atividade042\\atividade042.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Linguagem C#\\Projetos\\atividade042\\atividade042\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Pasta para teste\\AtividadeTeste\\atividade042\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

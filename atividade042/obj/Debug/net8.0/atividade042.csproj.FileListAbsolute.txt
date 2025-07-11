@@ -12,3 +12,18 @@ C:\Users\User\Desktop\Linguagem C#\Projetos\atividade042\atividade042\obj\Debug\
 C:\Users\User\Desktop\Linguagem C#\Projetos\atividade042\atividade042\obj\Debug\net8.0\atividade042.pdb
 C:\Users\User\Desktop\Linguagem C#\Projetos\atividade042\atividade042\obj\Debug\net8.0\atividade042.genruntimeconfig.cache
 C:\Users\User\Desktop\Linguagem C#\Projetos\atividade042\atividade042\obj\Debug\net8.0\ref\atividade042.dll
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\atividade042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\atividade042.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\atividade042.AssemblyInfo.cs
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\atividade042.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\atividade042.sourcelink.json
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\atividade042.dll
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\refint\atividade042.dll
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\atividade042.pdb
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\bin\Debug\net8.0\atividade042.exe
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\bin\Debug\net8.0\atividade042.deps.json
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\bin\Debug\net8.0\atividade042.runtimeconfig.json
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\bin\Debug\net8.0\atividade042.dll
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\bin\Debug\net8.0\atividade042.pdb
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\atividade042.genruntimeconfig.cache
+C:\Users\User\Desktop\Pasta para teste\AtividadeTeste\atividade042\obj\Debug\net8.0\ref\atividade042.dll

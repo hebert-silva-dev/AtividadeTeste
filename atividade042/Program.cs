@@ -1,13 +1,16 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using ProagramTeste;
 
 namespace Course
 {
-    class Program
+    class ProgramSecundario
     {
         static void Main(string[] args)
         {
+            VotingSecundari votingSecundari = new VotingSecundari();
+            ProgramSecundario p = new ProgramSecundario();
             Dictionary<string , int> voting = new Dictionary<string , int>();
 
             Console.Write("Enter file full path: ");
@@ -24,10 +27,28 @@ namespace Course
                         if (voting.ContainsKey(name))
                         {
                             voting[name] += voto;
+                            foreach (KeyValuePair<string, int> item in voting)
+                            {
+                                if (item.Key == name)
+                                {
+                                    votingSecundari.Name = item.Key;
+                                    votingSecundari.Votos = item.Value;
+                                    Console.WriteLine(votingSecundari.Name + votingSecundari.Votos);
+                                }
+                            }
                         }
                         else
                         {
                             voting.Add(name, voto);
+                            foreach (KeyValuePair<string, int> item in voting)
+                            {
+                                if (item.Key != name)
+                                {
+                                    votingSecundari.Name = item.Key;
+                                    votingSecundari.Votos = item.Value;
+                                    Console.WriteLine(votingSecundari.Name + votingSecundari.Votos);
+                                }
+                            }
                         }
                     }
                     foreach (KeyValuePair<string, int> item in voting)
