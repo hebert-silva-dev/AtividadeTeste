@@ -34,6 +34,7 @@ namespace Course
                     {
                         Console.WriteLine($"{item.Key}, {item.Value}");
                     }
+                    Console.WriteLine("!!!End voting!!!");
                 }
             }
             catch (IOException e)
